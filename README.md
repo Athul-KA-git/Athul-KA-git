@@ -23,6 +23,7 @@ I have a few pinned projects below — mostly Unity, XR, and experimental work.
 
 **Tech I work with**
 - Unity / C#
+- Unreal / C++
 - Game Development
 - Technical Art & Optimization
 - XR (AR · VR · MR)
